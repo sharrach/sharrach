@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salah-Eddine</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharrach&label=Profile%20views&color=0e75b6&style=flat" alt="sharrach" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sharrach&label=Profile%20views&color=0e75b6&style=flat" alt="sharrach" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharrach" alt="sharrach" /></a> </p>
+<p align="center"> [![sharrach's 42 stats](https://badge.mediaplus.ma/starryblue/sharrach)](https://github.com/oakoudad/badge42) </p>
 
 - 🔭 I’m currently working on [ft_transcendence](https://github.com/sharrach/Ft_Transcendence)
 
