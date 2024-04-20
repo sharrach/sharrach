@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharrach&label=Profile%20views&color=0e75b6&style=flat" alt="sharrach" /> </p>
 
-<p align="center"> [![sharrach's 42 stats](https://badge.mediaplus.ma/starryblue/sharrach)](https://github.com/oakoudad/badge42) </p>
+[![sharrach's 42 stats](https://badge.mediaplus.ma/starryblue/sharrach)](https://github.com/oakoudad/badge42)
 
 - 🔭 I’m currently working on [ft_transcendence](https://github.com/sharrach/Ft_Transcendence)
 
